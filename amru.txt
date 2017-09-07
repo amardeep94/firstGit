@@ -1,0 +1,3 @@
+hi
+i am amru. This is a text file i have created for testinf purpose in git
+local repository. That is inside user/AmaKumar/git_work_firstpro.
