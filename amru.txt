@@ -2,4 +2,4 @@ hi,
  i am amru. This is a text file i have created for testinf purpose in git local repository. That is inside user/AmaKumar/git_work_firstpro.
  
  
- <!-- i am adding this html comment tag for staging purpose -->
+ <!-- i am adding this html comment tag for staging purpose 2 -->
