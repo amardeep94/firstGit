@@ -1,3 +1,6 @@
 I'm the master.
 
-checking conflicts, i am branch1
+
+(checking conflicts, i am branch1)The line from the commit from between master and Branch without conflict.
+
+(testing conflicts, branch2)The edited line after seeing the conflicts between master and Branch2.
