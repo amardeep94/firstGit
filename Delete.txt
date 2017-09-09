@@ -1,1 +1,3 @@
 I'm the master.
+
+testing conflicts, branch2
