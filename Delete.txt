@@ -1,1 +1,3 @@
 I'm the master.
+
+checking conflicts, i am branch1
