@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-
-
 I'm the master.
-please delete me.
-=======
-i am going to delete you.
-
-
-please delete me
->>>>>>> fix20
