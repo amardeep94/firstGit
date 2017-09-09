@@ -1,0 +1,7 @@
+I'm the master.
+
+<<<<<<< HEAD
+checking conflicts, i am branch1
+=======
+testing conflicts, branch2
+>>>>>>> Branch2
